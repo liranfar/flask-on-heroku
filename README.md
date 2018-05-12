@@ -1,5 +1,5 @@
 # flask-on-heroku
-Heroku is a PaaS which allows you to deploy your app automatically on their containers called "dyno". All the container instructions should be found in `Prcofile`.
+Heroku is a PaaS which allows you to deploy your app automatically on their containers called "dyno". All the container instructions should be found in `Procfile`.
 
 ## Usage
 
@@ -17,6 +17,9 @@ cd flask-on-heroku
 $ heroku git:remote flask-deploy-blog-liran
 $ git push heroku master
 ```
+
+## TODO
+1. Add postgreSQL persistency.
 
 ## Resources
 * [Matt Huddleston blog post](https://progblog.io/How-to-deploy-a-Flask-App-to-Heroku/)
