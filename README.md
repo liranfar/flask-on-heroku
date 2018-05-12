@@ -32,4 +32,4 @@ $ git push heroku master
 * [Why we don't use nginx in heroku ?](https://stackoverflow.com/questions/33286651/on-heroku-is-it-safe-to-run-gunicorn-out-in-front)
 
 ## Extra
-* [The advantages of using nginx as a reverse-proxy server in IaaS. (a hint: buffering)](https://serverfault.com/questions/220046/why-is-setting-nginx-as-a-reverse-proxy-a-good-idea)
+* [The advantages of using nginx as a reverse-proxy server in IaaS. (a hint: buffering and static files)](https://serverfault.com/questions/220046/why-is-setting-nginx-as-a-reverse-proxy-a-good-idea)
